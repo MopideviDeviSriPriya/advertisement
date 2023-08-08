@@ -1,0 +1,156 @@
+h1{
+    text-align: center;
+}
+
+
+
+
+body{
+    background-image: url(background\ image\ mabblinee.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+h2{
+    text-align: center;
+}
+
+header{
+    display:flex;
+    background-color: rgb(236, 146, 146);
+    height: 100px;
+    margin: 30px;
+}
+nav ul li {
+    display: inline-block;
+    padding: 20px;
+    
+}
+
+nav ul li a{
+    color: black;
+    text-decoration: none;
+    font-size: large;
+    border: 60px pink;
+    border-radius: 20% ;
+    background-color:white;
+    padding: 10px;
+
+}
+nav{
+    margin-left: 100px;
+}
+
+#home{
+    text-align: center;
+}
+.gird{
+    display: grid;
+    display: flex;
+    flex-wrap: wrap;
+ 
+}
+#About{
+    text-align: center;
+}
+.m{
+   border-radius: 10%;
+}
+.gird1{
+    text-align: center;
+    display: grid;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 50px;
+    
+
+
+    
+ 
+}
+
+
+.gird2{
+    text-align: center;
+    display: grid;
+    display: flex;
+    flex-wrap: wrap;
+}
+#product{
+    text-align: center;
+    
+}
+.grid3{
+    display: grid;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+#move{
+    width: 100%;
+    height: 400px;
+   
+
+    overflow: auto auto;
+    white-space: nowrap;
+
+}
+#move .slide{
+    display: inline-block;
+}
+
+.grid1{
+    background-color: transparent;
+    display: grid;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 100px;
+    padding-left: 10px;
+    
+}
+.contact__container{
+    border: 2px solid rgb(185, 101, 101);
+    height :"50px";
+     width : "50px";
+     padding: 60px;
+     background-image: url(maybelline13.jpeg);
+}
+#Review{
+    text-align: center;
+    background-color: transparent;
+    color: black;
+    height:90%;
+    width:100%;
+  }
+  .slide1 img{
+       padding-left: 20px;
+       height: 200px;
+       width:200px;
+       border-radius: 60%;
+       
+       
+  }
+.c{
+    border-radius: 10%;
+    margin: 10px;
+    
+}
+
+
+   #footer
+{
+  background-image:url(pic32.webp);
+  background-size: cover;
+  font-size: xx-large;
+  color: aliceblue;
+}
+.footer1{
+  text-align: center;
+
+}
+div.grid2{
+  width: 100%;
+  background-image:url("pic32.webp");
+  box-shadow: 0 4px 8px 0 rgba(67, 18, 78, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  color: #dfbee4;
+  margin-bottom: 25px;
+}
